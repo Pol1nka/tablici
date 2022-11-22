@@ -1,0 +1,7 @@
+D:\RiderProjects\tablici\tablici\obj\Debug\tablici.csproj.AssemblyReference.cache
+D:\RiderProjects\tablici\tablici\obj\Debug\tablici.csproj.SuggestedBindingRedirects.cache
+D:\RiderProjects\tablici\tablici\obj\Debug\tablici.csproj.CoreCompileInputs.cache
+D:\RiderProjects\tablici\tablici\bin\Debug\tablici.exe
+D:\RiderProjects\tablici\tablici\bin\Debug\tablici.pdb
+D:\RiderProjects\tablici\tablici\obj\Debug\tablici.exe
+D:\RiderProjects\tablici\tablici\obj\Debug\tablici.pdb
